@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarang Patil</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarang2203" alt="sarang2203" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sarang patil" target="blank"><img src="https://img.shields.io/twitter/follow/sarang patil?logo=twitter&style=for-the-badge" alt="sarang patil" /></a> </p>
 
 - 🔭 I’m currently working on [snacz](https://github.com/Sarang2203/snacz.git)
