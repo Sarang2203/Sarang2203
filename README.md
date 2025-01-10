@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [snacz](https://github.com/Sarang2203/snacz.git)
 
-- 🌱 I’m currently learning **Andriod,DSA**
+- 🌱 I’m currently pursing MCA.
 
 - 👯 I’m looking to collaborate on [snacz](https://github.com/Sarang2203/snacz.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarang2203](https://github.com/Sarang2203)
 
-- 📫 How to reach me **patilsarang2209@gmail.com**
+- 📫 How to reach me **sarangpatil.work@gmail.com**
 
 - ⚡ Fun fact **I can Code.**
 
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang2203&show_icons=true&locale=en" alt="sarang2203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang2203&" alt="sarang2203" /></p>
+
